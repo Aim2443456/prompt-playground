@@ -90,8 +90,7 @@ def main():
             "llama-3.3-70b-versatile",
             "llama-3.1-8b-instant",
             "meta-llama/llama-4-scout-17b-16e-instruct",
-            "qwen/qwen3-32b",
-            "mixtral-8x7b-32768"
+            "qwen/qwen3-32b"
         ]
     )
 
@@ -209,7 +208,7 @@ def main():
                         st.markdown("**AI Response:**")
                         st.markdown(row[6])
                         st.metric("Total Tokens", row[9])
-                        
+
     with tab4:
         st.subheader("Chat Mode")
         st.markdown("AI remembers the full conversation history within this session.")
