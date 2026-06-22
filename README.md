@@ -4,6 +4,20 @@ A full-featured AI prompt playground built during my AI Engineering Internship a
 
 🔗 **Live App:** [converse-lab.streamlit.app](https://converse-lab.streamlit.app)
 
+## Screenshots
+
+**Ask AI**
+![Ask AI Tab](ask-ai-tab.png)
+
+**Chat Mode**
+![Chat Mode Tab](chat-mode-tab.png)
+
+**Temperature Sweep**
+![Temperature Sweep Tab](temperature-sweep-tab.png)
+
+**Past Runs**
+![Past Runs Tab](past-runs-tab.png)
+
 ## Features
 
 - **Ask AI** — Send a question with a custom system prompt and temperature setting
